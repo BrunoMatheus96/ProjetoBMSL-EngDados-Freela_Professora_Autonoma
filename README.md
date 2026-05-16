@@ -1,4 +1,4 @@
 # ProjetoBMSL-EngDados-Freela_Professora_Autonoma
 
-## Fluxo
+## Fluxo do projeto
 ![Fluxo](utils/imagens/Fluxo.png)
